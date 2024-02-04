@@ -28,3 +28,21 @@ axios(URL)
 
 
 app.listen(PORT, console.log("surver is running!"))
+
+// {
+//     "name": "html",
+//     "version": "1.0.0",
+//     "description": "",
+//     "main": "index.js",
+//     "scripts": {
+//       "dev": "node index.js"
+//     },
+//     "author": "",
+//     "license": "ISC",
+//     "dependencies": {
+//       "axios": "^1.6.7",
+//       "cheerio": "^1.0.0-rc.12",
+//       "express": "^4.18.2",
+//       "nodemon": "^3.0.3"
+//     }
+//   }
